@@ -1,5 +1,4 @@
-## Hi there 👋
- I'm Srividhya
+## Hi there 👋  I'm Srividhya
 
 Building robust backend systems with Java and Spring Boot.
 
