@@ -1,16 +1,18 @@
 ## Hi there 👋
+ I'm Srividhya
 
-<!--
-**SrividhyaSan/SrividhyaSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building robust backend systems with Java and Spring Boot.
 
-Here are some ideas to get you started:
+📚 I’m currently working on improving my backend development skills and analytical thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I have solved a real-world problem by developing a Course Registration System.
+
+💻 All of my projects are available on my GitHub profile.
+
+🗣️ Ask me about Java, Spring Boot, RESTful APIs, MySQL, Data Structures, and OOP.
+
+🚀 Fun fact: I believe a good problem statement is the first step to a great solution.
+
+
+Languages and Tools:
+Java, Spring Boot, RESTful APIs, MySQL, IntelliJ IDEA
